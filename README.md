@@ -1,5 +1,5 @@
 #NFT
-The ERC-721 contract for Pixel Cowboys NFTs
+The ERC-721 contract for Pixel Cowboys.
 
 This repository contains the ERC-721 contract for Pixel Cowboys NFTs.
 
